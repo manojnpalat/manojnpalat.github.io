@@ -4,7 +4,7 @@
 Objective: Gets hands-on with basic software engineering setup
 
 - get a [ github account](https://github.com/)
-- download [Spring Tools for Eclipse] (https://spring.io/tools)
+- download [Spring Tools for Eclipse](https://spring.io/tools)
 - Fork from [SELab site](https://github.com/manojnpalat/selab23_basics) based on [Spring guides rest](https://github.com/spring-guides/tut-rest)
 - Use [SSH Connections](https://github.com/settings/keys)
 - Use git repository view of STS and clone from your forked repository
