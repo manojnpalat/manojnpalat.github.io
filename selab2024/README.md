@@ -1,5 +1,8 @@
 # SELab2024.1 
 
+## Discussions
+[SE Discussions](https://github.com/manojnpalat/manojnpalat.github.io/discussions?discussions_q=is%3Aopen+label%3Aselab2024) - If you have any queries/general discussions on the SE lectures or the lab, please ask here - please put the label selab2024 and/or se2024 as appropriate
+
 ## First Setup
 Objective: Gets hands-on with basic software engineering setup
 
